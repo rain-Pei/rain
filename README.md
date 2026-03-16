@@ -1,2 +1,0 @@
-# rain
-print ("hello")
